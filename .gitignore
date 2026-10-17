@@ -1,0 +1,22 @@
+# Archivos compilados
+*.o
+*.obj
+
+# Ejecutables
+bin/
+*.exe
+
+# Directorios de construcción
+obj/
+
+# Archivos comprimidos
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Configuración de VSCode
+.vscode/
+
+# Otros archivos temporales
+*.log

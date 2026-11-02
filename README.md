@@ -2,7 +2,7 @@
 
 **Proyecto académico de simulación de partículas 2D**
 
-Este repositorio contiene el código fuente de un proyecto de C++ desarrollado en el primer año de la carrera de Ingeniería Informática, durante la asignatura Metodología de la Programación. El programa modela partículas en un plano 2‑D que deben ser eliminadas por la aspiradora que actuá como otra partícula pero de mayor tamaño. Puedes mover la aspiradora con las teclas direccionales del teclado, y el programa incluye operaciones de movimiento, colisión y rebote entre las partículas. El radio de la aspiradora y el número de partículas se pueden elegir al ejecutar el programa, puedes añadir más particulas pulsando la tecla ENTER.
+Este repositorio contiene la implementación de la práctica final de la asignatura de **Metodología de la programación** (1º curso del Grado en Ingeniería Informática, Universidad de Granada). El programa modela partículas en un plano 2D que deben ser eliminadas por la aspiradora que actúa como otra partícula pero de mayor tamaño. Puedes mover la aspiradora con las teclas de dirección del teclado, y el programa incluye operaciones de movimiento, colisión y rebote entre las partículas. El radio de la aspiradora y el número de partículas se pueden elegir al ejecutar el programa, puedes añadir más partículas pulsando la tecla ENTER.
 
 ---
 
@@ -69,14 +69,16 @@ make clean
 
 ---
 
+## 👥 Contexto Académico
+
+Proyecto desarrollado para la asignatura de **Metodología de la programación** — Grado en Ingeniería Informática, **Universidad de Granada**.
+
+---
+
 ## 📄 Licencia
 
 Este proyecto está licenciado bajo la **MIT License** (ver el archivo `LICENSE`).
 
 ---
-
-## ✏️ Contribuciones
-
-Si deseas contribuir, puedes hacer un *pull request* describiendo los cambios. Se agradece mantener el estilo de código y actualizar los tests cuando sea necesario.
 
 
